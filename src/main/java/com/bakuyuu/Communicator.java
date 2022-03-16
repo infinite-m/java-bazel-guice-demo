@@ -9,6 +9,7 @@ public interface Communicator {
 
     /**
      * pr commit 1
+     * pr commit 2
      * @param message
      * @return
      */
