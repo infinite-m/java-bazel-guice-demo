@@ -7,5 +7,10 @@ package com.bakuyuu;
  */
 public interface Communicator {
 
+    /**
+     * pr commit 1
+     * @param message
+     * @return
+     */
     boolean sendMessage(String message);
 }
